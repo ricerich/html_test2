@@ -1,0 +1,59 @@
+ 엑셀과 파워포인트를 이용한 프레젠테이션 작성 능력을 배양하여 실무에 활용할 수 있도록 한다.
+
+ 본 강좌에서는 엑셀과 파워포인트의 기본적인 사용법을 소개한다.
+ 수식계산, 차트, 데이터 관리 및 분석 등의 스프레드시트 사용 능력을 배양하고, 문서 작성 및 프레젠테이션 자료를 완성할 수 있는 능력을 기른다.   엑셀과 파워포인트를 이용한 프레젠테이션 작성 능력을 배양하여 실무에 활용할 수 있도록 한다.
+
+강의 + 실습 (대면 불가시 제작 동영상 + 실시간 zoom)
+
+첫 수업 오리엔테이션 후 공지
+
+ 엑셀의 개요
+ 파일과 워크시트 관리, 저장 및 인쇄
+ 자료입력 및 편집, 표 작성
+ 수식 계산                     과제 1
+ 함수를 이용한 계산
+ 차트 만들기
+ 데이터 관리               과제 2
+ 데이터 분석
+ 중간평가
+ 파워포인트의 개요
+ 슬라이드 내용 입력 및 편집      과제 3
+ 표 차트 만들기
+ 개체 다루기
+ 슬라이드 다루기 및 꾸미기      과제 4
+ 기말평가
+
+Improve pupils’ OA capability that could be used within university and practical works. 
+
+1. Learn about useful functions with MS Excel that includes, computing mass amount of data values, data management, math function, building chart.
+2. Find out ways that capable of much more apparent, effective presentation by utilizing MS Powerpoint 
+
+Overview of MS Excel 
+
+Worksheet and page layout
+
+Data type and cell format
+
+Formula calculation (relative/absolute reference)  Assignment #1
+
+Utilize math function
+
+Chart making and editing
+
+Data management     Assignment #2
+
+Data analysis
+
+Midterm Exam
+
+Overview of MS Powerpoint 
+
+Type of slide and basic input   Assignment #3
+
+Making table and chart 
+
+Using drawing tools, smart art, clipart   Assignment #4
+
+Screen conversion, animation effects
+
+Final Exam
